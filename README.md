@@ -1,10 +1,6 @@
-### Hi there 👋 I'm Omri
+### Hey, I'm Omri 👋
 
-##### 3rd year Computer Science Student.
-##### I'm passionate about coding, seeking for challenge, a fast self learner and a team player 😄
-[<img align="left" alt="vladi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vladi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+I like a good challenge, pick up new things fast, and enjoy working with a team.
 
-
-[linkedin]: https://linkedin.com/in/omrikrelman/
-[gmail]:malito:omrikre@gmail.com
+<a href="https://linkedin.com/in/omrikrelman/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:omrikre@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
