@@ -1,6 +1,11 @@
-### Hey, I'm Omri 👋
+## Omri Krelman
 
-I like a good challenge, pick up new things fast, and enjoy working with a team.
+Software developer. I work mostly in Python and Kotlin, and I like building small
+tools that take something tedious and make it automatic.
 
-<a href="https://linkedin.com/in/omrikrelman/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-<a href="mailto:omrikre@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+**Currently working on** a self-hosted homelab dashboard, an equipment reporting
+system, and an Android puzzle game.
+
+**Languages & tools:** Python · Kotlin · JavaScript · Java · C/C++ · Bash
+
+[LinkedIn](https://linkedin.com/in/omrikrelman/) · [omrikre@gmail.com](mailto:omrikre@gmail.com)
